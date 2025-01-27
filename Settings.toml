@@ -23,7 +23,7 @@ subReddits = [ "memes", "dankmemes",]
 shortsAmount = 5
 
 [Scraping.Imgur]
-Authorization = "key-here"
+Authorization = "https://apidocs.imgur.com/#3f80c836-8f49-4fb1-95a7-a4b058265d72"
 
 [Scraping.Reddit]
 Id = "id-here"
